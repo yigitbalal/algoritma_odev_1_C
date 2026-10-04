@@ -6,8 +6,7 @@
 
 #include <stdio.h>
 
-int main(void)
-{
-    printf("Merhaba Yigit");
-    return 0;
+int main() {
+   printf("Hello! Yigit\n");
+   return 0;
 }
