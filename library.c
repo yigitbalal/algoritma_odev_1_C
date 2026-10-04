@@ -7,6 +7,6 @@
 #include <stdio.h>
 
 int main() {
-   printf("Hello! Yigit\n");
+   printf("Hello Yigit\n");
    return 0;
 }
